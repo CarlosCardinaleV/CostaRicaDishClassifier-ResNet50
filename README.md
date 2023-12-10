@@ -18,13 +18,13 @@ Your dataset should be organized in the following structure:
 dataset/  
 │  
 ├── training-data/  
-│   ├── class1/  
-│   ├── class2/  
+│   ├── dish1/  
+│   ├── dish2/  
 │   └── ...  
 │  
 └── test-data/  
-    ├── class1/  
-    ├── class2/  
+    ├── dish1/  
+    ├── dish2/  
     └── ...  
 
 
