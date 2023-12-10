@@ -47,3 +47,4 @@ The script is configured to detect and utilize an Apple M1 GPU if available. It 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
+[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-amarillo.svg)](./LICENSE)
