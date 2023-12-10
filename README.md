@@ -16,25 +16,15 @@ Ensure that these libraries are installed in your environment. You can install t
 Your dataset should be organized in the following structure:
 
 dataset/  
-
 │  
-
 ├── training-data/  
-
 │   ├── class1/  
-
 │   ├── class2/  
-
 │   └── ...  
-
 │  
-
 └── test-data/  
-
     ├── class1/  
-
     ├── class2/  
-
     └── ...  
 
 
