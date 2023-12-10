@@ -15,17 +15,28 @@ Ensure that these libraries are installed in your environment. You can install t
 ## Dataset Structure
 Your dataset should be organized in the following structure:
 
-dataset/
-│
-├── training-data/
-│   ├── class1/
-│   ├── class2/
-│   └── ...
-│
-└── test-data/
-    ├── class1/
-    ├── class2/
-    └── ...
+dataset/  
+
+│  
+
+├── training-data/  
+
+│   ├── class1/  
+
+│   ├── class2/  
+
+│   └── ...  
+
+│  
+
+└── test-data/  
+
+    ├── class1/  
+
+    ├── class2/  
+
+    └── ...  
+
 
 ## Usage
 1. Clone the repository to your local machine.
